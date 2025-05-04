@@ -32,3 +32,6 @@ if is_student:  # Checks if is_student is True
     print(f"{name} is a student 🎓.")  # Prints if True
 else:
     print(f"{name} is not a student 🚫.")
+
+# This program uses if-else statements to check conditions and print messages accordingly 😊🐍
+#     
